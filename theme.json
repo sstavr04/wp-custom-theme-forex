@@ -1,0 +1,36 @@
+{
+	"version": 2,
+    "settings": {
+        "layout": {
+            "contentSize": "1280px"
+        },
+        "typography": {
+			"fontFamilies": [
+				{
+					"fontFamily": "Inter",
+					"slug": "Inter",
+					"name": "Inter"
+				},
+				{
+					"fontFamily": "Helvetica Neue, Helvetica, Arial, sans-serif",
+					"slug": "helvetica-arial",
+					"name": "Helvetica or Arial"
+				}
+			]
+		}
+    },
+    "styles": {
+		"color": {
+			"text": "#475467"
+		},
+        "elements": {
+			"button": {
+				"color": {
+					"text": "#FFFFFF",
+					"background": "#E2B205"
+				}
+			}
+		}
+	}
+}
+ 
